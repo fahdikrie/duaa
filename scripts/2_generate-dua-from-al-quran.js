@@ -27,7 +27,7 @@ const saveJson = (data, filePath) => {
 
 const generateDuaFromAlQuran = () => {
   const masterData = loadJson(MASTER_DATA_PATH);
-  const filteredData = masterData.fillter((item) => item.source === "Al-Quran");
+  const filteredData = masterData.filter((item) => item.source === "Al-Quran");
 
   saveJson(filteredData, TARGET_PATH);
 };
