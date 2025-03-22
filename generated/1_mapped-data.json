@@ -57,8 +57,14 @@
     "transliteration": "Rabbana āmannā fagh   fir lanā warḥamnā wa anta khayru ar-rāḥimīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Rahmat", "Taubat/Ampunan"],
-      "categories_en": ["Mercy", "Tawbah/Forgiveness"]
+      "categories_id": [
+        "Rahmat",
+        "Taubat/Ampunan"
+      ],
+      "categories_en": [
+        "Mercy",
+        "Tawbah/Forgiveness"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Mu'minun [23]:109",
@@ -90,8 +96,14 @@
     "transliteration": "Rabbighfir warḥam wa anta khayru ar-raḥimīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Rahmat", "Taubat/Ampunan"],
-      "categories_en": ["Mercy", "Tawbah/Forgiveness"]
+      "categories_id": [
+        "Rahmat",
+        "Taubat/Ampunan"
+      ],
+      "categories_en": [
+        "Mercy",
+        "Tawbah/Forgiveness"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Mu'minun [23]:118",
@@ -123,7 +135,10 @@
     "transliteration": "Rabbana innanā āmannā faghfir lanā dhunūbanā wa qinā ‘adzāban-nār.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Taubat/Ampunan", "Perlindungan dari Azab Neraka"],
+      "categories_id": [
+        "Taubat/Ampunan",
+        "Perlindungan dari Azab Neraka"
+      ],
       "categories_en": [
         "Tawbah/Forgiveness",
         "Refuge from the Torment of the Fire"
@@ -200,8 +215,14 @@
     "transliteration": "Rabbanā innanā sami'nā munādiyay yunādī lil-īmāni an āminụ birabbikum fa āmannā rabbanā fagfir lanā żunụbanā wa kaffir 'annā sayyi`ātinā wa tawaffanā ma'al-abrār.\n\nRabbanā wa ātinā mā wa'attanā 'alā rusulika wa lā tukhzinā yaumal-qiyāmah, innaka lā tukhliful-mī'ād.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Taubat/Ampunan", "Perlindungan di Hari Kiamat"],
-      "categories_en": ["Tawbah/Forgiveness", "Refuge in the Day of Judgement"]
+      "categories_id": [
+        "Taubat/Ampunan",
+        "Perlindungan di Hari Kiamat"
+      ],
+      "categories_en": [
+        "Tawbah/Forgiveness",
+        "Refuge in the Day of Judgement"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:193–194",
@@ -399,8 +420,12 @@
     "transliteration": "Rabbanā āmannā faktubnā ma'asy-syāhidīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Dimasukkan ke dalam Golongan Orang Saleh/Beriman"],
-      "categories_en": ["Included Among the Righteous/Believers"]
+      "categories_id": [
+        "Dimasukkan ke dalam Golongan Orang Saleh/Beriman"
+      ],
+      "categories_en": [
+        "Included Among the Righteous/Believers"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Maidah [5]:83",
@@ -432,8 +457,12 @@
     "transliteration": "Rabbanā taqabbal minnā, innaka antas-samī'ul-'alīm, wa tub 'alainā, innaka antat-tawwābur-raḥīm.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Diterima Amal, Doa, dan Taubat"],
-      "categories_en": ["Acceptance of Deeds, Prayers, and Repentance"]
+      "categories_id": [
+        "Diterima Amal, Doa, dan Taubat"
+      ],
+      "categories_en": [
+        "Acceptance of Deeds, Prayers, and Repentance"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Baqarah [2]:127–128",
@@ -465,8 +494,14 @@
     "transliteration": "Rabbi lā tażarnī fardaw wa anta khairul-wāriṡīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Zakaria AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Zakaria's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Zakaria AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Zakaria's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Anbiya [21]:89",
@@ -498,8 +533,14 @@
     "transliteration": "Rabbi hab lī minaṣ-ṣāliḥīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Ibrahim AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Abraham's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Ibrahim AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Abraham's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ash-Shaffat [37]:100",
@@ -531,8 +572,14 @@
     "transliteration": "Rabbi hab lī mil ladungka żurriyyatan ṭayyibah, innaka samī'ud-du'ā",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Zakaria AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Zakaria's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Zakaria AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Zakaria's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:38",
@@ -568,7 +615,10 @@
         "Keturunan yang Saleh/Salihah",
         "Pasangan yang Saleh/Salihah"
       ],
-      "categories_en": ["Righteous Offspring", "Righteous Spouse"]
+      "categories_en": [
+        "Righteous Offspring",
+        "Righteous Spouse"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Furqan [25]:74",
@@ -686,8 +736,14 @@
     "transliteration": "Rabbanagfir lanā wa li`ikhwāninallażīna sabaqụnā bil-īmāni wa lā taj'al fī qulụbinā gillal lillażīna āmanụ rabbanā innaka ra`ụfur raḥīm.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Taubat/Ampunan", "Ampunan Kaum Muslimin/Mukminin"],
-      "categories_en": ["Tawbah/Forgiveness", "Forgiveness for the Believers"]
+      "categories_id": [
+        "Taubat/Ampunan",
+        "Ampunan Kaum Muslimin/Mukminin"
+      ],
+      "categories_en": [
+        "Tawbah/Forgiveness",
+        "Forgiveness for the Believers"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Hasyr [59]:10",
@@ -762,8 +818,12 @@
     "transliteration": "",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Tambahan/Keberkahan Ilmu"],
-      "categories_en": ["Increase/Blessing in Knowledge"]
+      "categories_id": [
+        "Tambahan/Keberkahan Ilmu"
+      ],
+      "categories_en": [
+        "Increase/Blessing in Knowledge"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Thaha [20]:114",
@@ -795,8 +855,14 @@
     "transliteration": "Rabbanā atmim lanā nụranā wagfir lanā, innaka 'alā kulli syai`ing qadīr.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Taubat/Ampunan", "Hidayah/Petunjuk"],
-      "categories_en": ["Tawbah/Forgiveness", "Guidance"]
+      "categories_id": [
+        "Taubat/Ampunan",
+        "Hidayah/Petunjuk"
+      ],
+      "categories_en": [
+        "Tawbah/Forgiveness",
+        "Guidance"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. At-Tahrim [66]:8",
@@ -867,8 +933,12 @@
     "transliteration": "Rabbanā lā taj'alnā ma'al-qaumiẓ-ẓālimīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Pertolongan atas Kaum Kafir/Zalim"],
-      "categories_en": ["Protection from the Disbelievers/Wrongdoers"]
+      "categories_id": [
+        "Pertolongan atas Kaum Kafir/Zalim"
+      ],
+      "categories_en": [
+        "Protection from the Disbelievers/Wrongdoers"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-A'raf [7]:47",
@@ -978,8 +1048,12 @@
     "transliteration": "Rabbanā lā taj'alnā fitnatal lil-qaumiẓ-ẓālimīn, wa najjinā biraḥmatika minal-qaumil-kāfirīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Pertolongan atas Kaum Kafir/Zalim"],
-      "categories_en": ["Protection from the Disbelievers/Wrongdoers"]
+      "categories_id": [
+        "Pertolongan atas Kaum Kafir/Zalim"
+      ],
+      "categories_en": [
+        "Protection from the Disbelievers/Wrongdoers"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Yunus [10]:85–86",
@@ -1011,7 +1085,10 @@
     "transliteration": "Rabbanā 'alaika tawakkalnā wa ilaika anabnā wa ilaikal-maṣīr.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Ibrahim AS", "Tawakkal/Berserah Diri"],
+      "categories_id": [
+        "Doa Nabi Ibrahim AS",
+        "Tawakkal/Berserah Diri"
+      ],
       "categories_en": [
         "Prophet Abraham's PBUH Prayer",
         "Tawakkal/Reliance upon Allah"
@@ -1047,8 +1124,12 @@
     "transliteration": "Hasbiyallāhu lā ilāha illā huw, 'alaihi tawakkaltu wa huwa rabbul-'arsyil-'aẓīm.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Tawakkal/Berserah Diri"],
-      "categories_en": ["Tawakkal/Reliance upon Allah"]
+      "categories_id": [
+        "Tawakkal/Berserah Diri"
+      ],
+      "categories_en": [
+        "Tawakkal/Reliance upon Allah"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Taubah [9]:129",
@@ -1080,8 +1161,12 @@
     "transliteration": "Hasbunallāhu wa ni'mal-wakīl.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Tawakkal/Berserah Diri"],
-      "categories_en": ["Tawakkal/Reliance upon Allah"]
+      "categories_id": [
+        "Tawakkal/Berserah Diri"
+      ],
+      "categories_en": [
+        "Tawakkal/Reliance upon Allah"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:173",
@@ -1113,8 +1198,14 @@
     "transliteration": "Rabbi auzi'nī an asykura ni'matakallatī an'amta 'alayya wa 'alā wālidayya wa an a'mala ṣāliḥan tarḍāhu wa adkhilnī biraḥmatika fī 'ibādikaṣ-ṣāliḥīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Sulaiman AS", "Bersyukur"],
-      "categories_en": ["Prophet Solomon's PBUH Prayer", "Gratefulness"]
+      "categories_id": [
+        "Doa Nabi Sulaiman AS",
+        "Bersyukur"
+      ],
+      "categories_en": [
+        "Prophet Solomon's PBUH Prayer",
+        "Gratefulness"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. An-Naml [27]:19",
@@ -1146,8 +1237,12 @@
     "transliteration": "Rabbi auzi'nī an asykura ni'matakallatī an'amta 'alayya wa 'alā wālidayya wa an a'mala ṣāliḥan tarḍāhu wa aṣliḥ lī fī żurriyyatī, innī tubtu ilaika wa innī minal-muslimīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Bersyukur"],
-      "categories_en": ["Gratefulness"]
+      "categories_id": [
+        "Bersyukur"
+      ],
+      "categories_en": [
+        "Gratefulness"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Ahqaf [46]:15",
@@ -1345,8 +1440,14 @@
     "transliteration": "Rabbanā lā tuzig qulụbanā ba'da iż hadaitanā wa hab lanā mil ladungka raḥmah, innaka antal-wahhāb.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Hidayah/Petunjuk", "Rahmat"],
-      "categories_en": ["Guidance", "Mercy"]
+      "categories_id": [
+        "Hidayah/Petunjuk",
+        "Rahmat"
+      ],
+      "categories_en": [
+        "Guidance",
+        "Mercy"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:8",
@@ -1421,8 +1522,12 @@
     "transliteration": "Rabbanaṣrif 'annā 'ażāba jahannama inna 'ażābahā kāna garāmā. Innahā sā`at mustaqarraw wa muqāmā.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Perlindungan dari Azab Neraka"],
-      "categories_en": ["Refuge from the Torment of the Fire"]
+      "categories_id": [
+        "Perlindungan dari Azab Neraka"
+      ],
+      "categories_en": [
+        "Refuge from the Torment of the Fire"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Furqan [25]:65–66",
@@ -1454,8 +1559,12 @@
     "transliteration": "Wabbi a'ụżu bika min hamazātisy-syayāṭīn. Wa a'ụżu bika rabbi ay yaḥḍurụn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Perlindungan dari Setan"],
-      "categories_en": ["Refuge from the Devils/Shaytan"]
+      "categories_id": [
+        "Perlindungan dari Setan"
+      ],
+      "categories_en": [
+        "Refuge from the Devils/Shaytan"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Mu'minun [23]:97–98",
@@ -1487,7 +1596,10 @@
     "transliteration": "Rabbanā afrig 'alainā ṣabraw wa ṡabbit aqdāmanā wanṣurnā 'alal-qaumil-kāfirīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Bersabar", "Pertolongan atas Kaum Kafir/Zalim"],
+      "categories_id": [
+        "Bersabar",
+        "Pertolongan atas Kaum Kafir/Zalim"
+      ],
       "categories_en": [
         "Patience/Sabr",
         "Protection from the Disbelievers/Wrongdoers"
@@ -1603,8 +1715,12 @@
     "transliteration": "Asā rabbunā ay yubdilanā khairam min-hā innā ilā rabbinā rāgibụn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Ketika Mendapatkan Musibah"],
-      "categories_en": ["Upon Facing a Trial/Disaster/Calamity"]
+      "categories_id": [
+        "Ketika Mendapatkan Musibah"
+      ],
+      "categories_en": [
+        "Upon Facing a Trial/Disaster/Calamity"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Qalam [68]:32",
@@ -1636,8 +1752,14 @@
     "transliteration": "'Asā rabbī ay yahdiyanī sawā`as-sabīl.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Musa AS", "Hidayah/Petunjuk"],
-      "categories_en": ["Prophet Moses's PBUH Prayer", "Guidance"]
+      "categories_id": [
+        "Doa Nabi Musa AS",
+        "Hidayah/Petunjuk"
+      ],
+      "categories_en": [
+        "Prophet Moses's PBUH Prayer",
+        "Guidance"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Qashash [28]:22",
