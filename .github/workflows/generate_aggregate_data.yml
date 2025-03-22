@@ -19,7 +19,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ github.head_ref }}
           submodules: true
           fetch-depth: 0
@@ -32,8 +31,17 @@ jobs:
       - name: Install dependencies
         run: npm install || echo "No dependencies needed"
 
-      - name: Generate Aggregated Data
+      - name: 1. Generate Aggregated Data
         run: node scripts/1_generate-mapped-data.js
+
+      - name: 2. Generate Dua from Al-Qur'an
+        run: node scripts/2_generate-dua-from-al-quran.js
+
+      - name: 3. Generate Dua from As-Sunnah
+        run: node scripts/3_generate-dua-from-as-sunnah.js
+
+      - name: 4. Generate Dua from As-Sunnah
+        run: node scripts/4_generate-tokenized-categories.js
 
       - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5

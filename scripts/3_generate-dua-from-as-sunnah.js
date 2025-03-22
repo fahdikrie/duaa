@@ -2,7 +2,10 @@ const fs = require("fs");
 const path = require("path");
 
 const MASTER_DATA_PATH = path.join(__dirname, "../duaa.json");
-const TARGET_PATH = path.join(__dirname, "../generated/1_mapped-data.json");
+const TARGET_PATH = path.join(
+  __dirname,
+  "../generated/3_dua-from-as-sunnah.json"
+);
 
 /**
  * Load JSON file
@@ -22,13 +25,11 @@ const saveJson = (data, filePath) => {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
 };
 
-const generateMappedData = () => {
+const generateDuaFromAsSunnah = () => {
   const masterData = loadJson(MASTER_DATA_PATH);
-  const aggregatedData = Object.fromEntries(
-    masterData.map((item) => [item.id, item])
-  );
+  const filteredData = masterData.fillter((item) => item.source === "Al-Quran");
 
-  saveJson(aggregatedData, TARGET_PATH);
+  saveJson(filteredData, TARGET_PATH);
 };
 
-generateMappedData();
+generateDuaFromAsSunnah();
