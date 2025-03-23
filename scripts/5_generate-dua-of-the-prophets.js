@@ -4,7 +4,7 @@ const path = require("path");
 const MASTER_DATA_PATH = path.join(__dirname, "../duaa.json");
 const TARGET_PATH = path.join(
   __dirname,
-  "../generated/3_dua-from-as-sunnah.json"
+  "../generated/5_dua-of-the-prophets.json"
 );
 
 /**
@@ -27,7 +27,7 @@ const saveJson = (data, filePath) => {
 
 const generateDuaFromAsSunnah = () => {
   const masterData = loadJson(MASTER_DATA_PATH);
-  const filteredData = masterData.filter((item) => item.source === "As-Sunnah");
+  const filteredData = masterData.filter((item) => item.category.category_id);
 
   saveJson(filteredData, TARGET_PATH);
 };
