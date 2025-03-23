@@ -21,7 +21,7 @@
     "id": 4,
     "category_id": "Perlindungan dari Keburukan dan Kezaliman Diri/Perbuatan Melampaui Batas",
     "category_en": "Refuge from One's Own Wrongdoings/Excessiveness",
-    "count": 13
+    "count": 14
   },
   {
     "id": 5,
@@ -163,144 +163,138 @@
   },
   {
     "id": 28,
-    "category_id": "Perlindungan dari Keburukan dan Kezaliman Diri/Perbuatan Melampaui Batas",
-    "category_en": "Protection from the Disbelievers/Wrongdoers",
-    "count": 1
-  },
-  {
-    "id": 29,
     "category_id": "Kelancaran Berbicara",
     "category_en": "Eloquence in Speech/Public Speaking",
     "count": 1
   },
   {
-    "id": 30,
+    "id": 29,
     "category_id": "Kebaikan dan Keberkahan dalam Urusan Dunia",
     "category_en": "Goodness and Blessings in Worldly Affairs",
     "count": 5
   },
   {
-    "id": 31,
+    "id": 30,
     "category_id": "Kebaikan untuk Negeri",
     "category_en": "Goodness for the Nation",
     "count": 1
   },
   {
-    "id": 32,
+    "id": 31,
     "category_id": "Keselamatan dari dosa Syirik",
     "category_en": "Refuge from Idolatry/False Worship/Shirk",
     "count": 1
   },
   {
-    "id": 33,
+    "id": 32,
     "category_id": "Perlindungan dari Setan",
     "category_en": "Refuge from the Devils/Shaytan",
     "count": 2
   },
   {
-    "id": 34,
+    "id": 33,
     "category_id": "Bersabar",
     "category_en": "Patience/Sabr",
     "count": 2
   },
   {
-    "id": 35,
+    "id": 34,
     "category_id": "Husnul Khatimah/Wafat dalam Iman dan Islam",
     "category_en": "Husnul Khatimah/Die in a State of Islam (Submission) and Iman (Faith)",
     "count": 2
   },
   {
-    "id": 36,
+    "id": 35,
     "category_id": "Doa Nabi Yusuf AS",
     "category_en": "Prophet Joseph's PBUH Prayer",
     "count": 1
   },
   {
-    "id": 37,
+    "id": 36,
     "category_id": "Dikumpulkan Bersama Orang-Orang Saleh",
     "category_en": "To Be Gathered Among the Righteous",
     "count": 1
   },
   {
-    "id": 38,
+    "id": 37,
     "category_id": "Ketika Mendapatkan Musibah",
     "category_en": "Upon Facing a Trial/Disaster/Calamity",
     "count": 1
   },
   {
-    "id": 39,
+    "id": 38,
     "category_id": "Perlindungan dari Hal-Hal Buruk",
     "category_en": "Refuge from Unwanted Things",
     "count": 14
   },
   {
-    "id": 40,
+    "id": 39,
     "category_id": "Perlindungan dari Hilangnya Nikmat",
     "category_en": "Refuge from the Disappearance of Blessings",
     "count": 1
   },
   {
-    "id": 41,
+    "id": 40,
     "category_id": "Kesehatan Jasad (Badan, Penglihatan, dan Pendengaran) dan Perlindungan dari Penyakit",
     "category_en": "Good Health (Well-Being of the Body, the Hearing, and the Sight) and Refuge from Sickness/Disease",
     "count": 6
   },
   {
-    "id": 42,
+    "id": 41,
     "category_id": "Perlindungan dari Murka Allah",
     "category_en": "Refuge from Allah's Wrath",
     "count": 1
   },
   {
-    "id": 43,
+    "id": 42,
     "category_id": "Perlindungan dari Kefakiran/Kemiskinan/Kehinaan/Kelaparan",
     "category_en": "Refuge from Poverty/Need/Abasement/Hunger",
     "count": 4
   },
   {
-    "id": 44,
+    "id": 43,
     "category_id": "Perlindungan dari Bencana",
     "category_en": "Refuge from Disaster/Calamity",
     "count": 2
   },
   {
-    "id": 45,
+    "id": 44,
     "category_id": "Perlindungan dari Takdir Buruk",
     "category_en": "Refuge from the Evil of Fate/Destiny",
     "count": 1
   },
   {
-    "id": 46,
+    "id": 45,
     "category_id": "Perlindungan dari Azab Kubur",
     "category_en": "Refuge from the Torment of the Grave",
     "count": 2
   },
   {
-    "id": 47,
+    "id": 46,
     "category_id": "Perlindungan dari Dajjal",
     "category_en": "Refuge from Dajjal",
     "count": 1
   },
   {
-    "id": 48,
+    "id": 47,
     "category_id": "Perlindungan dari Rasa Malas",
     "category_en": "Refuge from Laziness",
     "count": 1
   },
   {
-    "id": 49,
+    "id": 48,
     "category_id": "Perlindungan dari Lilitan Hutang",
     "category_en": "Refuge from Debts",
     "count": 1
   },
   {
-    "id": 50,
+    "id": 49,
     "category_id": "Perlindungan dari Keburukan di Hari Tua",
     "category_en": "Refuge from Degradation/Geriatric/Senility in Old Age",
     "count": 2
   },
   {
-    "id": 51,
+    "id": 50,
     "category_id": "Kemudahan Rezeki",
     "category_en": "Ease of Provision/Rizq",
     "count": 2
