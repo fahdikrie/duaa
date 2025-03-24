@@ -45,7 +45,7 @@ const generateDuaForGoodnessHealthAndBlessings = () => {
   ]);
 
   const filteredData = masterData.filter((item) =>
-    item.categories?.categories_id.some((category) =>
+    item?.categories?.categories_id?.some((category) =>
       targetCategories.has(category)
     )
   );
