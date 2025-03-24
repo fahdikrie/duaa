@@ -494,5 +494,128 @@
       "note_id": "Abu Hurairah meriwayatkan bahwa Rasulullah (ﷺ) biasa berdoa dengan mengatakan:\n\n\"Ya Allah, berikanlah aku kenikmatan pada pendengaranku dan penglihatanku, jadikanlah keduanya tetap bersamaku hingga akhir hayatku, tolonglah aku melawan orang yang menzalimiku, dan balaslah mereka atas namaku.\"",
       "note_en": "Abu Hurairah narrated that the Messenger of Allah (ﷺ) used to supplicate, saying:\n\n\"O Allah, give me pleasure in my hearing and my sight, and make it the inheritor from me, and aid me against whoever oppresses me, and take vengeance from him for me.\""
     }
+  },
+  {
+    "id": 68,
+    "title": {
+      "title_id": "Mohon atas Banyaknya Anak dan Harta dan Keberkahan atas Karunia",
+      "title_en": "Seeking for the Abundance of Children and Wealth and Blessing upon the Provision"
+    },
+    "arabic": "اللَّهُمَّ أَكْثِرْ مَالِي وَوَلَدِي، وَبَارِكْ لِي فِيمَا أَعْطَيْتَنِي",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, perbanyaklah hartaku dan anak-anakku, serta berkahilah aku dalam apa yang telah Engkau berikan kepadaku.",
+      "translation_en": "O Allah, increase my wealth and children, and bless me in what You have given me."
+    },
+    "transliteration": "Allāhumma akthir mālī wa waladī, wa bārik lī fīmā a‘ṭaytanī.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Kemudahan Rezeki",
+        "Keturunan yang Saleh/Salihah",
+        "Kebaikan dan Keberkahan dalam Urusan Dunia"
+      ],
+      "categories_en": [
+        "Ease of Provision/Rizq",
+        "Righteous Offspring",
+        "Goodness and Blessings in Worldly Affairs"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. Bukhari no. 6378–6381.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Diriwayatkan dari Ummu Sulaim:\n\nIa berkata, “Wahai Rasulullah (ﷺ)! Anas adalah pelayanmu, maka mohonkanlah keberkahan Allah untuknya.”\n\nNabi (ﷺ) pun berdoa, “Ya Allah! Tambahkanlah hartanya, keturunannya, dan berkahilah apa pun yang Engkau berikan kepadanya.”",
+      "note_en": "Narrated Um Sulaim:\n\nthat she said, \"O Allah's Messenger (ﷺ)! Anas is your servant, so please invoke for Allah's blessing for him.\"\n\nThe Prophet (ﷺ) said, \"O Allah! Increase his wealth and offspring and bless (for him) whatever You give him.\""
+    }
+  },
+  {
+    "id": 69,
+    "title": {
+      "title_id": "Mohon Umur Panjang dalam Ketaatan",
+      "title_en": "Seeking for a Long Life in Obedience"
+    },
+    "arabic": "اللَّهُمَّ أَطِلْ حَيَاتِي عَلَى طَاعَتِكَ، وَأَحْسِنْ عَمَلِي، وَاغْفِرْ لِي",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, panjangkanlah usiaku dalam ketaatan kepada-Mu, perbaikilah amal perbuatanku, dan ampunilah aku.",
+      "translation_en": "O Allah, prolong my life in obedience to You, perfect my deeds, and forgive me."
+    },
+    "transliteration": "Allāhumma aṭil ḥayātī ‘alā ṭā‘atik, wa aḥsin ‘amalī, waghfir lī.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Kebaikan dan Keberkahan dalam Urusan Dunia",
+        "Hidayah/Petunjuk",
+        "Taubat/Ampunan"
+      ],
+      "categories_en": [
+        "Goodness and Blessings in Worldly Affairs",
+        "Guidance",
+        "Tawbah/Forgiveness"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "Al-Adab Al-Mufrad 653.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Anas berkata, \"Nabi ﷺ biasa datang kepada kami, keluarga beliau. Suatu hari, beliau datang dan mendoakan kami. Ummu Sulaim berkata, 'Wahai Rasulullah, tidakkah engkau akan mendoakan pelayan kecilmu ini?' Maka beliau pun berdoa, 'Ya Allah, berikanlah dia banyak harta dan keturunan, panjangkanlah umurnya, dan ampunilah dia.'\"",
+      "note_en": "Anas said, \"The Prophet, may Allah bless him and grant him peace, used to come to us, the people of his house. One day he came to us and made supplication for us. Umm Sulaym said, 'Won't you make supplication for your little servant?' He said, 'O Allah, give him a lot of wealth and children. Make him live long and forgive him.'\""
+    }
+  },
+  {
+    "id": 74,
+    "title": {
+      "title_id": "Memohon Rasa Cukup, Keberkahan, dan Pengganti yang Baik",
+      "title_en": "Seeking for Contentment, Blessing, and a Better Replacement"
+    },
+    "arabic": "اللَّهُمَّ قَنَّعْنِي بِمَا رَزَقْتَنِي، وَبَارِكْ لِي فِيهِ، وَاخْلُفْ عَلَيَّ كُلَّ غَائِبَةٍ بِخَيْرٍ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "a Allah, jadikanlah aku merasa cukup dengan apa yang Engkau rezekikan kepadaku, berkahilah rezeki itu untukku, dan gantilah setiap yang hilang dariku dengan yang lebih baik.",
+      "translation_en": "O Allah, make me content with what You have provided for me, bless it for me, and replace everything I lose with something better."
+    },
+    "transliteration": "Allāhumma qanni‘nī bimā razaqtanī, wa bārik lī fīhi, wakhluf ‘alayya kulla ghā'ibatin bikhayr.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Qana'ah",
+        "Kebaikan dan Keberkahan dalam Urusan Dunia",
+        "Ketika Mendapatkan Musibah"
+      ],
+      "categories_en": [
+        "Contentment/Qana'ah",
+        "Goodness and Blessings in Worldly Affairs",
+        "Upon Facing a Trial/Disaster/Calamity"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "Dua of the Sahaba Ibn Abbas r.a. from Al-Adab Al-Mufrad. Narrated by other narrators (e.g. Hakim & Baihaqi) albeit graded Daif by Albani.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Ibnu ‘Abbas biasa berdoa:\"Ya Allah, jadikanlah aku merasa cukup dengan rezeki yang Engkau berikan kepadaku, berkahilah rezeki itu untukku, dan tetapkanlah kebaikan bagiku dalam segala sesuatu yang tidak aku miliki.\"",
+      "note_en": "Ibn 'Abbas used to say, \"O Allah, make me content with the provision You have given me and bless me in it and appoint good for me in every thing which I do not have.\""
+    }
   }
 ]

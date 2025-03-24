@@ -1078,5 +1078,44 @@
       "note_id": "Qatadah bertanya kepada Anas tentang doa yang sering dipanjatkan oleh Rasulullah (ﷺ).\n\nAnas menjawab: \"Doa yang paling sering beliau (Nabi) ucapkan adalah: 'Ya Allah, berikanlah kami kebaikan di dunia dan kebaikan di akhirat serta lindungilah kami dari azab neraka.'\"\n\nQatadah berkata bahwa setiap kali Anas berdoa, ia selalu mengucapkan doa ini. Dan setiap kali ia hendak memanjatkan doa lain, ia selalu menyelipkan doa ini di dalamnya.",
       "note_en": "Qatada asked Anas which Supplication Allah's Apostle (ﷺ) frequently made. He said:\n\nThe supplication that he (the Prophet made very frequently is this: \"O Allah, grant us the good in this world and the good in the Hereafter and save us from the torment of Hell-Fire.\"\n\nHe (Qatada) said that whenever Anas had to supplicate he made this very supplication, and whenever he (intended) to make another supplication he (inserted) this very supplication in that."
     }
+  },
+  {
+    "id": 71,
+    "title": {
+      "title_id": "Mohon agar Dimasukkan ke dalam Surga dan Terlindung dari Api Neraka",
+      "title_en": "Asking for Paradise and Seeking Refuge from Hellfire"
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, sesungguhnya aku memohon surga kepada-Mu dan aku berlindung kepada-Mu dari neraka. [Dibaca 3x]",
+      "translation_en": "O Allah, I ask You for Paradise, and I seek refuge in You from the Fire. [Read 3 times]"
+    },
+    "transliteration": "Allāhumma innī as’alukal-jannata wa a‘ūdzu bika minan-nār.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Surga/Kebaikan di Akhirat",
+        "Perlindungan dari Azab Neraka"
+      ],
+      "categories_en": [
+        "Garden/Heaven/Jannah/Goodness in the Hereafter",
+        "Refuge from the Torment of the Fire"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. At-Tirmidzi no. 2572.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Anas bin Malik meriwayatkan bahwa Rasulullah ﷺ bersabda:\n\n\"Barang siapa yang meminta surga kepada Allah sebanyak tiga kali, maka surga akan berkata: ‘Ya Allah, masukkanlah dia ke dalam surga.’ Dan barang siapa yang memohon perlindungan dari neraka sebanyak tiga kali, maka neraka akan berkata: ‘Ya Allah, lindungilah dia dari neraka.’\"\n\nTerdapat riwayat serupa melalui jalur periwayatan yang lain.",
+      "note_en": "Anas bin Malik narrated that the Messenger of Allah (s.a.w) said:\n\n\"Whoever asks Allah (s.w.t) Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'\"\n\nOther chains report similar narrations."
+    }
   }
 ]

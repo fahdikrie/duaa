@@ -3,7 +3,7 @@
     "id": 3,
     "category_id": "Taubat/Ampunan",
     "category_en": "Tawbah/Forgiveness",
-    "count": 17
+    "count": 18
   },
   {
     "id": 4,
@@ -24,16 +24,34 @@
     "count": 10
   },
   {
+    "id": 22,
+    "category_id": "Hidayah/Petunjuk",
+    "category_en": "Guidance",
+    "count": 10
+  },
+  {
     "id": 2,
     "category_id": "Rahmat",
     "category_en": "Mercy",
     "count": 8
   },
   {
-    "id": 22,
-    "category_id": "Hidayah/Petunjuk",
-    "category_en": "Guidance",
+    "id": 13,
+    "category_id": "Surga/Kebaikan di Akhirat",
+    "category_en": "Garden/Heaven/Jannah/Goodness in the Hereafter",
     "count": 8
+  },
+  {
+    "id": 29,
+    "category_id": "Kebaikan dan Keberkahan dalam Urusan Dunia",
+    "category_en": "Goodness and Blessings in Worldly Affairs",
+    "count": 8
+  },
+  {
+    "id": 5,
+    "category_id": "Perlindungan dari Azab Neraka",
+    "category_en": "Refuge from the Torment of the Fire",
+    "count": 7
   },
   {
     "id": 11,
@@ -42,10 +60,10 @@
     "count": 7
   },
   {
-    "id": 5,
-    "category_id": "Perlindungan dari Azab Neraka",
-    "category_en": "Refuge from the Torment of the Fire",
-    "count": 6
+    "id": 16,
+    "category_id": "Keturunan yang Saleh/Salihah",
+    "category_en": "Righteous Offspring",
+    "count": 7
   },
   {
     "id": 8,
@@ -54,28 +72,10 @@
     "count": 6
   },
   {
-    "id": 13,
-    "category_id": "Surga/Kebaikan di Akhirat",
-    "category_en": "Garden/Heaven/Jannah/Goodness in the Hereafter",
-    "count": 6
-  },
-  {
-    "id": 16,
-    "category_id": "Keturunan yang Saleh/Salihah",
-    "category_en": "Righteous Offspring",
-    "count": 6
-  },
-  {
     "id": 40,
     "category_id": "Kesehatan Jasad (Badan, Penglihatan, dan Pendengaran) dan Perlindungan dari Penyakit",
     "category_en": "Good Health (Well-Being of the Body, the Hearing, and the Sight) and Refuge from Sickness/Disease",
     "count": 6
-  },
-  {
-    "id": 29,
-    "category_id": "Kebaikan dan Keberkahan dalam Urusan Dunia",
-    "category_en": "Goodness and Blessings in Worldly Affairs",
-    "count": 5
   },
   {
     "id": 6,
@@ -111,6 +111,12 @@
     "id": 24,
     "category_id": "Tawakkal/Berserah Diri",
     "category_en": "Tawakkal/Reliance upon Allah",
+    "count": 3
+  },
+  {
+    "id": 50,
+    "category_id": "Kemudahan Rezeki",
+    "category_en": "Ease of Provision/Rizq",
     "count": 3
   },
   {
@@ -156,6 +162,12 @@
     "count": 2
   },
   {
+    "id": 37,
+    "category_id": "Ketika Mendapatkan Musibah",
+    "category_en": "Upon Facing a Trial/Disaster/Calamity",
+    "count": 2
+  },
+  {
     "id": 43,
     "category_id": "Perlindungan dari Bencana",
     "category_en": "Refuge from Disaster/Calamity",
@@ -174,9 +186,9 @@
     "count": 2
   },
   {
-    "id": 50,
-    "category_id": "Kemudahan Rezeki",
-    "category_en": "Ease of Provision/Rizq",
+    "id": 51,
+    "category_id": "Pembuka Doa",
+    "category_en": "Opening Dua/Supplication",
     "count": 2
   },
   {
@@ -258,12 +270,6 @@
     "count": 1
   },
   {
-    "id": 37,
-    "category_id": "Ketika Mendapatkan Musibah",
-    "category_en": "Upon Facing a Trial/Disaster/Calamity",
-    "count": 1
-  },
-  {
     "id": 39,
     "category_id": "Perlindungan dari Hilangnya Nikmat",
     "category_en": "Refuge from the Disappearance of Blessings",
@@ -297,6 +303,12 @@
     "id": 48,
     "category_id": "Perlindungan dari Lilitan Hutang",
     "category_en": "Refuge from Debts",
+    "count": 1
+  },
+  {
+    "id": 52,
+    "category_id": "Qana'ah",
+    "category_en": "Contentment/Qana'ah",
     "count": 1
   }
 ]

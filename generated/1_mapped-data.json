@@ -2709,11 +2709,19 @@
     "transliteration": "Allāhumma akthir mālī wa waladī, wa bārik lī fīmā a‘ṭaytanī.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": [],
-      "categories_en": []
+      "categories_id": [
+        "Kemudahan Rezeki",
+        "Keturunan yang Saleh/Salihah",
+        "Kebaikan dan Keberkahan dalam Urusan Dunia"
+      ],
+      "categories_en": [
+        "Ease of Provision/Rizq",
+        "Righteous Offspring",
+        "Goodness and Blessings in Worldly Affairs"
+      ]
     },
     "source": "As-Sunnah",
-    "reference": "",
+    "reference": "HR. Bukhari no. 6378–6381.",
     "occasion": {
       "occasion_id": "",
       "occasion_en": ""
@@ -2723,8 +2731,242 @@
       "benefits_en": []
     },
     "note": {
-      "note_id": "",
-      "note_en": ""
+      "note_id": "Diriwayatkan dari Ummu Sulaim:\n\nIa berkata, “Wahai Rasulullah (ﷺ)! Anas adalah pelayanmu, maka mohonkanlah keberkahan Allah untuknya.”\n\nNabi (ﷺ) pun berdoa, “Ya Allah! Tambahkanlah hartanya, keturunannya, dan berkahilah apa pun yang Engkau berikan kepadanya.”",
+      "note_en": "Narrated Um Sulaim:\n\nthat she said, \"O Allah's Messenger (ﷺ)! Anas is your servant, so please invoke for Allah's blessing for him.\"\n\nThe Prophet (ﷺ) said, \"O Allah! Increase his wealth and offspring and bless (for him) whatever You give him.\""
+    }
+  },
+  "69": {
+    "id": 69,
+    "title": {
+      "title_id": "Mohon Umur Panjang dalam Ketaatan",
+      "title_en": "Seeking for a Long Life in Obedience"
+    },
+    "arabic": "اللَّهُمَّ أَطِلْ حَيَاتِي عَلَى طَاعَتِكَ، وَأَحْسِنْ عَمَلِي، وَاغْفِرْ لِي",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, panjangkanlah usiaku dalam ketaatan kepada-Mu, perbaikilah amal perbuatanku, dan ampunilah aku.",
+      "translation_en": "O Allah, prolong my life in obedience to You, perfect my deeds, and forgive me."
+    },
+    "transliteration": "Allāhumma aṭil ḥayātī ‘alā ṭā‘atik, wa aḥsin ‘amalī, waghfir lī.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Kebaikan dan Keberkahan dalam Urusan Dunia",
+        "Hidayah/Petunjuk",
+        "Taubat/Ampunan"
+      ],
+      "categories_en": [
+        "Goodness and Blessings in Worldly Affairs",
+        "Guidance",
+        "Tawbah/Forgiveness"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "Al-Adab Al-Mufrad 653.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Anas berkata, \"Nabi ﷺ biasa datang kepada kami, keluarga beliau. Suatu hari, beliau datang dan mendoakan kami. Ummu Sulaim berkata, 'Wahai Rasulullah, tidakkah engkau akan mendoakan pelayan kecilmu ini?' Maka beliau pun berdoa, 'Ya Allah, berikanlah dia banyak harta dan keturunan, panjangkanlah umurnya, dan ampunilah dia.'\"",
+      "note_en": "Anas said, \"The Prophet, may Allah bless him and grant him peace, used to come to us, the people of his house. One day he came to us and made supplication for us. Umm Sulaym said, 'Won't you make supplication for your little servant?' He said, 'O Allah, give him a lot of wealth and children. Make him live long and forgive him.'\""
+    }
+  },
+  "70": {
+    "id": 70,
+    "title": {
+      "title_id": "Mohon Hisab yang Mudah",
+      "title_en": ""
+    },
+    "arabic": "اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, hisablah aku dengan hisab yang mudah.",
+      "translation_en": "O Allah, call me to account with an easy reckoning."
+    },
+    "transliteration": "Allāhumma ḥāsibnī ḥisāban yasīran.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Surga/Kebaikan di Akhirat"
+      ],
+      "categories_en": [
+        "Garden/Heaven/Jannah/Goodness in the Hereafter"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. Muslim 2867c.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Dia (Aisyah) berkata bahwa dia mendengar Rasulullah ﷺ berdoa, “Ya Allah, berilah aku hisab yang ringan.” Maka dia bertanya, “Wahai Nabi Allah, apa itu hisab yang ringan?” Beliau menjawab, “Yaitu seseorang diperiksa catatannya, lalu Allah mengampuninya. Barang siapa yang dihisab dengan ketat pada hari itu, wahai ‘Aisyah, niscaya ia akan binasa.”",
+      "note_en": "She told that she heard God's messenger say in the course pf his prayer, \"O God, grant me a light reckoning,\" and asked, \"Prophet of God, what is the light reckoning?\" He replied, \"That one's book should be examined and that God should forgive him. He who is severely taken to account that day, A'isha, will perish.\""
+    }
+  },
+  "71": {
+    "id": 71,
+    "title": {
+      "title_id": "Mohon agar Dimasukkan ke dalam Surga dan Terlindung dari Api Neraka",
+      "title_en": "Asking for Paradise and Seeking Refuge from Hellfire"
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, sesungguhnya aku memohon surga kepada-Mu dan aku berlindung kepada-Mu dari neraka. [Dibaca 3x]",
+      "translation_en": "O Allah, I ask You for Paradise, and I seek refuge in You from the Fire. [Read 3 times]"
+    },
+    "transliteration": "Allāhumma innī as’alukal-jannata wa a‘ūdzu bika minan-nār.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Surga/Kebaikan di Akhirat",
+        "Perlindungan dari Azab Neraka"
+      ],
+      "categories_en": [
+        "Garden/Heaven/Jannah/Goodness in the Hereafter",
+        "Refuge from the Torment of the Fire"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. At-Tirmidzi no. 2572.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Anas bin Malik meriwayatkan bahwa Rasulullah ﷺ bersabda:\n\n\"Barang siapa yang meminta surga kepada Allah sebanyak tiga kali, maka surga akan berkata: ‘Ya Allah, masukkanlah dia ke dalam surga.’ Dan barang siapa yang memohon perlindungan dari neraka sebanyak tiga kali, maka neraka akan berkata: ‘Ya Allah, lindungilah dia dari neraka.’\"\n\nTerdapat riwayat serupa melalui jalur periwayatan yang lain.",
+      "note_en": "Anas bin Malik narrated that the Messenger of Allah (s.a.w) said:\n\n\"Whoever asks Allah (s.w.t) Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'\"\n\nOther chains report similar narrations."
+    }
+  },
+  "72": {
+    "id": 72,
+    "title": {
+      "title_id": "Pembuka Doa #1 (Memohon dengan Nama-Nama Allah yang Agung)",
+      "title_en": "Opening Dua/Supplication #1 (Ask Allah with His Mighty Names)"
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلَهَ إِلاَّ أَنْتَ الْمَنَّانُ بَدِيعُ السَّمَوَاتِ وَالأَرْضِ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ يَا حَىُّ يَا قَيُّومُ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan (menyebut) bahwa segala pujian adalah milik-Mu. Tidak ada ilah yang berhak disembah selain Engkau, Yang Maha Memberi Karunia, Pencipta langit dan bumi, Wahai Dzat yang memiliki keagungan dan kemuliaan, Wahai Yang Maha Hidup, Yang Maha Berdiri Sendiri.",
+      "translation_en": "O Allah, I ask You by virtue of the fact that all praise belongs to You. There is no deity except You, the Most Generous, the Originator of the heavens and the earth, O Possessor of Glory and Honor, O Ever-Living, O Self-Sustaining."
+    },
+    "transliteration": "Allāhumma innī as’aluka bi-anna lakal-ḥamda, lā ilāha illā anta, al-Mannān, Badī‘us-samāwāti wal-arḍ, yā Dzal-Jalāli wal-Ikrām, yā Ḥayy, yā Qayyūm.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Pembuka Doa"
+      ],
+      "categories_en": [
+        "Opening Dua/Supplication"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. Abu Daud, no. 1495.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Diriwayatkan dari Anas bin Malik:\n\nAku sedang duduk bersama Rasulullah (ﷺ), lalu seorang laki-laki sedang melaksanakan shalat. Setelah itu, ia berdoa:\n\n\"Ya Allah, aku memohon kepada-Mu dengan (menyebut) bahwa segala pujian adalah milik-Mu, tidak ada ilah yang berhak disembah selain Engkau, Yang Maha Memberi Karunia dan Kebaikan, Pencipta langit dan bumi, Wahai Tuhan yang memiliki keagungan dan kemuliaan, Wahai Yang Maha Hidup, Yang Maha Berdiri Sendiri.\"\n\nKemudian Rasulullah (ﷺ) bersabda:\n\n\"Dia telah berdoa kepada Allah dengan menggunakan Nama-Nya yang paling agung. Jika seseorang berdoa dengan nama ini, maka Allah akan mengabulkannya, dan jika seseorang meminta dengan nama ini, maka Allah akan memberikannya.\"",
+      "note_en": "Narrated Anas ibn Malik:\n\nI was sitting with the Messenger of Allah (ﷺ) and a man was offering prayer.\n\nHe then made supplication: O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One.\n\nThe Prophet (ﷺ) then said: He has supplicated Allah using His Greatest Name, when supplicated by this name, He answers, and when asked by this name He gives."
+    }
+  },
+  "73": {
+    "id": 73,
+    "title": {
+      "title_id": "Pembuka Doa #2 (Memohon Petunjuk dengan Memuji Allah)",
+      "title_en": "Opening Dua/Supplication #1 (Ask Allah for Guidance through His Might)"
+    },
+    "arabic": "اللَّهُمَّ رَبَّ جِبْرِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اللَّهُمَّ اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "Ya Allah, Rabb Jibril, Mikail, dan Israfil, Pencipta langit dan bumi, Yang Maha Mengetahui perkara gaib dan nyata. Engkaulah yang memutuskan di antara hamba-hamba-Mu dalam segala yang mereka perselisihkan. Ya Allah, berilah aku petunjuk kepada kebenaran dalam perkara yang diperselisihkan. Sungguh, Engkau memberi petunjuk kepada siapa yang Engkau kehendaki menuju jalan yang lurus.",
+      "translation_en": "O Allah, Lord of Jibril, Mikail, and Israfil, Creator of the heavens and the earth, Knower of the unseen and the seen. You judge between Your servants concerning that wherein they differ. O Allah, guide me to the truth in matters of dispute, for surely, You guide whom You will to the straight path."
+    },
+    "transliteration": "Allahumma rabba Jibrīla wa Mīkāīla wa Isrāfīla, fāṭira as-samāwāti wal-arḍi, ‘ālima al-ghaybi was-shahādah, anta taḥkumu bayna ‘ibādika fīmā kānū fīhi yakhtalifūn. Allahumma-hdinī limā ukhtulifa fīhi minal-ḥaqq, innaka tahdī man tashā’u ilā ṣirāṭin mustaqīm.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Pembuka Doa",
+        "Hidayah/Petunjuk"
+      ],
+      "categories_en": [
+        "Opening Dua/Supplication",
+        "Guidance"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "HR. An-Nasa'i no. 1625",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Abu Salamah bin 'Abdur-Rahman berkata:\n\nAku bertanya kepada 'Aisyah: 'Dengan apa Nabi (ﷺ) memulai shalatnya?'\n\nBeliau menjawab: 'Ketika beliau bangun untuk shalat di malam hari, beliau memulai shalatnya dengan ucapan:\"Ya Allah, Rabb Jibril, Mikail, dan Israfil, Pencipta langit dan bumi, Yang Maha Mengetahui yang gaib dan yang nyata. Engkaulah yang memutuskan di antara hamba-hamba-Mu dalam segala yang mereka perselisihkan. Ya Allah, tunjukilah aku kepada kebenaran dalam perkara yang diperselisihkan, karena Engkaulah satu-satunya yang memberi petunjuk kepada jalan yang lurus.\"",
+      "note_en": "Abu Salamah bin 'Abdur-Rahman said:\n\n\"I asked 'Aishah: 'With what did the Prophet (ﷺ) start his prayer?'\n\nShe said: 'When he got up to pray at night he would start his prayer with the words: O Allah, Lord of Jibril, Mika'il and Israfil, Creator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your slaves concerning wherein they differ. O Allah, guide me to the disputed matters of truth for You are the One Who guides to the Straight Path.\""
+    }
+  },
+  "74": {
+    "id": 74,
+    "title": {
+      "title_id": "Memohon Rasa Cukup, Keberkahan, dan Pengganti yang Baik",
+      "title_en": "Seeking for Contentment, Blessing, and a Better Replacement"
+    },
+    "arabic": "اللَّهُمَّ قَنَّعْنِي بِمَا رَزَقْتَنِي، وَبَارِكْ لِي فِيهِ، وَاخْلُفْ عَلَيَّ كُلَّ غَائِبَةٍ بِخَيْرٍ",
+    "arabic_first_person_plural": null,
+    "translation": {
+      "translation_id": "a Allah, jadikanlah aku merasa cukup dengan apa yang Engkau rezekikan kepadaku, berkahilah rezeki itu untukku, dan gantilah setiap yang hilang dariku dengan yang lebih baik.",
+      "translation_en": "O Allah, make me content with what You have provided for me, bless it for me, and replace everything I lose with something better."
+    },
+    "transliteration": "Allāhumma qanni‘nī bimā razaqtanī, wa bārik lī fīhi, wakhluf ‘alayya kulla ghā'ibatin bikhayr.",
+    "transliteration_first_person_plural": null,
+    "categories": {
+      "categories_id": [
+        "Qana'ah",
+        "Kebaikan dan Keberkahan dalam Urusan Dunia",
+        "Ketika Mendapatkan Musibah"
+      ],
+      "categories_en": [
+        "Contentment/Qana'ah",
+        "Goodness and Blessings in Worldly Affairs",
+        "Upon Facing a Trial/Disaster/Calamity"
+      ]
+    },
+    "source": "As-Sunnah",
+    "reference": "Dua of the Sahaba Ibn Abbas r.a. from Al-Adab Al-Mufrad. Narrated by other narrators (e.g. Hakim & Baihaqi) albeit graded Daif by Albani.",
+    "occasion": {
+      "occasion_id": "",
+      "occasion_en": ""
+    },
+    "benefits": {
+      "benefits_id": [],
+      "benefits_en": []
+    },
+    "note": {
+      "note_id": "Ibnu ‘Abbas biasa berdoa:\"Ya Allah, jadikanlah aku merasa cukup dengan rezeki yang Engkau berikan kepadaku, berkahilah rezeki itu untukku, dan tetapkanlah kebaikan bagiku dalam segala sesuatu yang tidak aku miliki.\"",
+      "note_en": "Ibn 'Abbas used to say, \"O Allah, make me content with the provision You have given me and bless me in it and appoint good for me in every thing which I do not have.\""
     }
   }
 }
