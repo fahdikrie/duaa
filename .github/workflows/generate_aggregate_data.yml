@@ -52,7 +52,7 @@ jobs:
       - name: 7. Generate Dua for Goodness, Health, and Blessings
         run: node scripts/7_generate-dua-for-goodness-health-and-blessings.js
 
-      - name: 7. Generate Dua for Protection from Unwanted Things
+      - name: 8. Generate Dua for Protection from Unwanted Things
         run: node scripts/8_generate-dua-for-protection-from-unwanted-things.js
 
       - name: Commit & Push Changes

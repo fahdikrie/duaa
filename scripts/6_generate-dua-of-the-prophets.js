@@ -4,7 +4,7 @@ const path = require("path");
 const MASTER_DATA_PATH = path.join(__dirname, "../duaa.json");
 const TARGET_PATH = path.join(
   __dirname,
-  "../generated/5_dua-of-the-prophets.json"
+  "../generated/6_dua-of-the-prophets.json"
 );
 
 /**
