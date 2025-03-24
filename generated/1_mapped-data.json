@@ -2726,38 +2726,5 @@
       "note_id": "",
       "note_en": ""
     }
-  },
-  "null": {
-    "id": null,
-    "title": {
-      "title_id": "",
-      "title_en": ""
-    },
-    "arabic": "",
-    "arabic_first_person_plural": null,
-    "translation": {
-      "translation_id": "",
-      "translation_en": ""
-    },
-    "transliteration": "",
-    "transliteration_first_person_plural": null,
-    "categories": {
-      "categories_id": [],
-      "categories_en": []
-    },
-    "source": "As-Sunnah",
-    "reference": "",
-    "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
-    },
-    "benefits": {
-      "benefits_id": [],
-      "benefits_en": []
-    },
-    "note": {
-      "note_id": "",
-      "note_en": ""
-    }
   }
 }
