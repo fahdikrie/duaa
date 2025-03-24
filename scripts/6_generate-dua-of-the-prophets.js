@@ -25,11 +25,13 @@ const saveJson = (data, filePath) => {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
 };
 
-const generateDuaFromAsSunnah = () => {
+const generateDuaOfTheProphets = () => {
   const masterData = loadJson(MASTER_DATA_PATH);
-  const filteredData = masterData.filter((item) => item.category.category_id);
+  const filteredData = masterData.filter((item) =>
+    item.category.category_id.startsWith("Doa Nabi")
+  );
 
   saveJson(filteredData, TARGET_PATH);
 };
 
-generateDuaFromAsSunnah();
+generateDuaOfTheProphets();

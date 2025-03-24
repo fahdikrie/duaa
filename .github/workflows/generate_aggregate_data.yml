@@ -40,8 +40,20 @@ jobs:
       - name: 3. Generate Dua from As-Sunnah
         run: node scripts/3_generate-dua-from-as-sunnah.js
 
-      - name: 4. Generate Dua from As-Sunnah
+      - name: 4. Generate Tokenized Categories
         run: node scripts/4_generate-tokenized-categories.js
+
+      - name: 5. Generate Tokenized Categories Sorted by Most Count
+        run: node scripts/5_generate-tokenized-categories-sorted-by-most-count.js
+
+      - name: 6. Generate Dua of the Prophets
+        run: node scripts/6_generate-dua-of-the-prophets.js
+
+      - name: 7. Generate Dua for Goodness, Health, and Blessings
+        run: node scripts/7_generate-dua-for-goodness-health-and-blessings.js
+
+      - name: 7. Generate Dua for Protection from Unwanted Things
+        run: node scripts/8_generate-dua-for-protection-from-unwanted-things.js
 
       - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
