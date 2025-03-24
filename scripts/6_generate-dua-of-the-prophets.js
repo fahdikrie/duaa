@@ -27,8 +27,11 @@ const saveJson = (data, filePath) => {
 
 const generateDuaOfTheProphets = () => {
   const masterData = loadJson(MASTER_DATA_PATH);
-  const filteredData = masterData.filter((item) =>
-    item?.categories?.category_id?.startsWith("Doa Nabi")
+
+  const filteredData = masterData.filter(
+    (item) =>
+      Array.isArray(item?.categories?.categories_id) &&
+      item.categories.categories_id.some((cat) => cat.startsWith("Doa Nabi"))
   );
 
   saveJson(filteredData, TARGET_PATH);
