@@ -30,8 +30,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Hud [11]:47",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -57,10 +57,7 @@
     "transliteration": "Rabbana innanā āmannā faghfir lanā dhunūbanā wa qinā ‘adzāban-nār.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": [
-        "Taubat/Ampunan",
-        "Perlindungan dari Azab Neraka"
-      ],
+      "categories_id": ["Taubat/Ampunan", "Perlindungan dari Azab Neraka"],
       "categories_en": [
         "Tawbah/Forgiveness",
         "Refuge from the Torment of the Fire"
@@ -69,8 +66,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:16",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -110,8 +107,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Al-Qashash [28]:16",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -151,8 +148,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:147",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -194,8 +191,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Al-A'raf [7]:23",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -235,8 +232,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Al-Anbiya [21]:87",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -278,8 +275,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Al-Baqarah [2]:201",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -321,8 +318,8 @@
     "source": "Al-Qur'an",
     "reference": "QS. Ibrahim [14]:35",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -348,18 +345,14 @@
     "transliteration": "Rabbanaṣrif 'annā 'ażāba jahannama inna 'ażābahā kāna garāmā. Innahā sā`at mustaqarraw wa muqāmā.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": [
-        "Perlindungan dari Azab Neraka"
-      ],
-      "categories_en": [
-        "Refuge from the Torment of the Fire"
-      ]
+      "categories_id": ["Perlindungan dari Azab Neraka"],
+      "categories_en": ["Refuge from the Torment of the Fire"]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Furqan [25]:65–66",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -385,18 +378,14 @@
     "transliteration": "Wabbi a'ụżu bika min hamazātisy-syayāṭīn. Wa a'ụżu bika rabbi ay yaḥḍurụn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": [
-        "Perlindungan dari Setan"
-      ],
-      "categories_en": [
-        "Refuge from the Devils/Shaytan"
-      ]
+      "categories_id": ["Perlindungan dari Setan"],
+      "categories_en": ["Refuge from the Devils/Shaytan"]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Mu'minun [23]:97–98",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -438,8 +427,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Muslim no. 2739. Al-Adab Al-Mufrad 685. Graded Sahih by al-Albani.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -481,8 +470,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Ahmad no. 8053. Abu Daud no. 1546. Al-Adab Al-Mufrad 678. Graded Sahih by Syuaib al-Arnauth and al-Albani.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -522,8 +511,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Abu Daud, no. 1547 Bi sanad-in shahih. HR An-Nasai no. (VIII/263). Riyadus Saliheen 1485.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -565,8 +554,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Bukhari, no. 6347. HR. Muslim, no. 2707.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -606,8 +595,8 @@
     "source": "As-Sunnah",
     "reference": "HR. An-Nasa’i, no. 5531. Graded Sahih by Al-Hafiz Abu Thahir.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -657,8 +646,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Bukhari, no. 6377. HR. Muslim no. 589 [129]",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -700,8 +689,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Al-Hakim (I/530). HR. Ibnu Hibban no. 2446 & no. 1019. Graded Sahih by Al-Hakim.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -743,8 +732,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Bukhari no. 6374.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -788,8 +777,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Ahmad (IV/444). HR. Al-Hakim (I/510). Graded Sahih by Al-Hakim.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -829,8 +818,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Bukhari no. 6374. HR. Muslim no. 2706.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -868,8 +857,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Abu Daud, no. 1554. HR. An-Nasai (VIII/270). HR Ahmad (III/192). Graded Sahih by al-Albani.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -907,8 +896,8 @@
     "source": "As-Sunnah",
     "reference": "HR. An-Nasa’i, no. 5446. HR. Abu Daud, no. 1551. HR. Tirmidzi, no. 3492. Graded Hasan by Al-Hafiz Abu Thahir.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -948,8 +937,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Ibnu Hibban no. 956/at-Ta'liqatul Hisan. HR. Tirmidzi no. 3591. Graded Sahih by al-Hakim.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -987,8 +976,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Muslim no. 2716. HR. Abu Daud no. 1550 (in his Sunan). HR. An-Nasai no. 5524 (in his Sunan).",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -1026,8 +1015,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Abu Dawud no. 792. HR Ibnu Majah no. 910.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -1067,8 +1056,8 @@
     "source": "As-Sunnah",
     "reference": "HR. Bukhari no. 6389. HR. Muslim no. 2690.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
@@ -1106,8 +1095,8 @@
     "source": "As-Sunnah",
     "reference": "HR. At-Tirmidzi no. 2572.",
     "occasion": {
-      "occasion_id": "",
-      "occasion_en": ""
+      "occasion_id": [],
+      "occasion_en": []
     },
     "benefits": {
       "benefits_id": [],
