@@ -9,13 +9,13 @@
     "id": 2,
     "category_id": "Rahmat",
     "category_en": "Mercy",
-    "count": 8
+    "count": 10
   },
   {
     "id": 3,
     "category_id": "Taubat/Ampunan",
     "category_en": "Tawbah/Forgiveness",
-    "count": 18
+    "count": 25
   },
   {
     "id": 4,
@@ -303,7 +303,7 @@
     "id": 51,
     "category_id": "Pembuka Doa",
     "category_en": "Opening Dua/Supplication",
-    "count": 2
+    "count": 3
   },
   {
     "id": 52,

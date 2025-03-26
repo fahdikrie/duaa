@@ -182,8 +182,14 @@
     "transliteration": "Rabbi lā tażarnī fardaw wa anta khairul-wāriṡīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Zakaria AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Zakaria's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Zakaria AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Zakaria's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Anbiya [21]:89",
@@ -215,8 +221,14 @@
     "transliteration": "Rabbi hab lī minaṣ-ṣāliḥīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Ibrahim AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Abraham's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Ibrahim AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Abraham's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ash-Shaffat [37]:100",
@@ -248,8 +260,14 @@
     "transliteration": "Rabbi hab lī mil ladungka żurriyyatan ṭayyibah, innaka samī'ud-du'ā",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Zakaria AS", "Keturunan yang Saleh/Salihah"],
-      "categories_en": ["Prophet Zakaria's PBUH Prayer", "Righteous Offspring"]
+      "categories_id": [
+        "Doa Nabi Zakaria AS",
+        "Keturunan yang Saleh/Salihah"
+      ],
+      "categories_en": [
+        "Prophet Zakaria's PBUH Prayer",
+        "Righteous Offspring"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Ali Imran [3]:38",
@@ -527,7 +545,10 @@
     "transliteration": "Rabbanā 'alaika tawakkalnā wa ilaika anabnā wa ilaikal-maṣīr.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Ibrahim AS", "Tawakkal/Berserah Diri"],
+      "categories_id": [
+        "Doa Nabi Ibrahim AS",
+        "Tawakkal/Berserah Diri"
+      ],
       "categories_en": [
         "Prophet Abraham's PBUH Prayer",
         "Tawakkal/Reliance upon Allah"
@@ -563,8 +584,14 @@
     "transliteration": "Rabbi auzi'nī an asykura ni'matakallatī an'amta 'alayya wa 'alā wālidayya wa an a'mala ṣāliḥan tarḍāhu wa adkhilnī biraḥmatika fī 'ibādikaṣ-ṣāliḥīn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Sulaiman AS", "Bersyukur"],
-      "categories_en": ["Prophet Solomon's PBUH Prayer", "Gratefulness"]
+      "categories_id": [
+        "Doa Nabi Sulaiman AS",
+        "Bersyukur"
+      ],
+      "categories_en": [
+        "Prophet Solomon's PBUH Prayer",
+        "Gratefulness"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. An-Naml [27]:19",
@@ -762,8 +789,14 @@
     "transliteration": "'Asā rabbī ay yahdiyanī sawā`as-sabīl.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Doa Nabi Musa AS", "Hidayah/Petunjuk"],
-      "categories_en": ["Prophet Moses's PBUH Prayer", "Guidance"]
+      "categories_id": [
+        "Doa Nabi Musa AS",
+        "Hidayah/Petunjuk"
+      ],
+      "categories_en": [
+        "Prophet Moses's PBUH Prayer",
+        "Guidance"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Qashash [28]:22",

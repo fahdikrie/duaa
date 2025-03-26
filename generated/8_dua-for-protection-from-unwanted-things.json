@@ -57,7 +57,10 @@
     "transliteration": "Rabbana innanā āmannā faghfir lanā dhunūbanā wa qinā ‘adzāban-nār.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Taubat/Ampunan", "Perlindungan dari Azab Neraka"],
+      "categories_id": [
+        "Taubat/Ampunan",
+        "Perlindungan dari Azab Neraka"
+      ],
       "categories_en": [
         "Tawbah/Forgiveness",
         "Refuge from the Torment of the Fire"
@@ -345,8 +348,12 @@
     "transliteration": "Rabbanaṣrif 'annā 'ażāba jahannama inna 'ażābahā kāna garāmā. Innahā sā`at mustaqarraw wa muqāmā.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Perlindungan dari Azab Neraka"],
-      "categories_en": ["Refuge from the Torment of the Fire"]
+      "categories_id": [
+        "Perlindungan dari Azab Neraka"
+      ],
+      "categories_en": [
+        "Refuge from the Torment of the Fire"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Furqan [25]:65–66",
@@ -378,8 +385,12 @@
     "transliteration": "Wabbi a'ụżu bika min hamazātisy-syayāṭīn. Wa a'ụżu bika rabbi ay yaḥḍurụn.",
     "transliteration_first_person_plural": null,
     "categories": {
-      "categories_id": ["Perlindungan dari Setan"],
-      "categories_en": ["Refuge from the Devils/Shaytan"]
+      "categories_id": [
+        "Perlindungan dari Setan"
+      ],
+      "categories_en": [
+        "Refuge from the Devils/Shaytan"
+      ]
     },
     "source": "Al-Qur'an",
     "reference": "QS. Al-Mu'minun [23]:97–98",
