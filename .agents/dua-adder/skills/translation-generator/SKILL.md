@@ -8,6 +8,7 @@ description: Generates Indonesian and English translations for Arabic doa text i
 Generate `translation_id` and `translation_en`.
 
 ## Rules
+
 - Translate meaning naturally, not word-for-word.
 - Keep it prayer-like and readable.
 - Preserve theological nuance.
@@ -15,6 +16,8 @@ Generate `translation_id` and `translation_en`.
 - Avoid adding commentary inside translation fields.
 
 ## Output
+
 Return:
+
 - `translation_id`
 - `translation_en`

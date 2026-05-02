@@ -9,7 +9,7 @@ Generate `categories_id` and `categories_en`.
 
 ## Rules
 
-- Prefer categories already present in the dataset.
+- Prefer categories already present in the dataset (./duaa.json).
 - Only create a new category if no existing category fits well.
 - Keep Indonesian and English categories parallel in meaning.
 - Use a small set of highly relevant categories.
