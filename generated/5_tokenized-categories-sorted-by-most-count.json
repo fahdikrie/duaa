@@ -3,18 +3,18 @@
     "id": 3,
     "category_id": "Taubat/Ampunan",
     "category_en": "Tawbah/Forgiveness",
-    "count": 25
-  },
-  {
-    "id": 4,
-    "category_id": "Perlindungan dari Keburukan dan Kezaliman Diri/Perbuatan Melampaui Batas",
-    "category_en": "Refuge from One's Own Wrongdoings/Excessiveness",
-    "count": 14
+    "count": 26
   },
   {
     "id": 38,
     "category_id": "Perlindungan dari Hal-Hal Buruk",
     "category_en": "Refuge from Unwanted Things",
+    "count": 15
+  },
+  {
+    "id": 4,
+    "category_id": "Perlindungan dari Keburukan dan Kezaliman Diri/Perbuatan Melampaui Batas",
+    "category_en": "Refuge from One's Own Wrongdoings/Excessiveness",
     "count": 14
   },
   {
@@ -78,15 +78,15 @@
     "count": 6
   },
   {
-    "id": 6,
-    "category_id": "Doa Nabi Musa AS",
-    "category_en": "Prophet Moses's PBUH Prayer",
-    "count": 4
-  },
-  {
     "id": 42,
     "category_id": "Perlindungan dari Kefakiran/Kemiskinan/Kehinaan/Kelaparan",
     "category_en": "Refuge from Poverty/Need/Abasement/Hunger",
+    "count": 5
+  },
+  {
+    "id": 6,
+    "category_id": "Doa Nabi Musa AS",
+    "category_en": "Prophet Moses's PBUH Prayer",
     "count": 4
   },
   {
@@ -183,6 +183,12 @@
     "id": 45,
     "category_id": "Perlindungan dari Azab Kubur",
     "category_en": "Refuge from the Torment of the Grave",
+    "count": 2
+  },
+  {
+    "id": 48,
+    "category_id": "Perlindungan dari Lilitan Hutang",
+    "category_en": "Refuge from Debts",
     "count": 2
   },
   {
@@ -297,12 +303,6 @@
     "id": 47,
     "category_id": "Perlindungan dari Rasa Malas",
     "category_en": "Refuge from Laziness",
-    "count": 1
-  },
-  {
-    "id": 48,
-    "category_id": "Perlindungan dari Lilitan Hutang",
-    "category_en": "Refuge from Debts",
     "count": 1
   },
   {
